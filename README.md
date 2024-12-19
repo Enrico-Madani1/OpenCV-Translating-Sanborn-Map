@@ -6,7 +6,7 @@ This repository contains a Python script that extracts specific color regions (y
 - Visualization: Displays the extracted regions on a white background using Matplotlib.
 - Image Saving: Saves the final image as combined_black_regions_cv2_1.png.
 ## Files
-- [clean-contours.ipynb]: Main Jupyter Notebook file for running the code.
+- (clean-contours.ipynb): Main Jupyter Notebook file for running the code.
 - [sample_image.jpg]: Example input image for testing the script.
 - [contours_filled1.png]: Output image showing extracted regions on a white background.
 ## Usage
